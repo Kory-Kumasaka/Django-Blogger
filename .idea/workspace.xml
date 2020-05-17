@@ -20,6 +20,18 @@
   </component>
   <component name="ProjectId" id="1bvArMt0njAkF3rWiHZpcUhTNBz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mysite/blogging/templates/blogging" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\koryk\Desktop\Python230\Django-Blogger\mysite\blogging\static" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\koryk\Desktop\Python230\Django-Blogger\mysite\blogging\templates\blogging" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
